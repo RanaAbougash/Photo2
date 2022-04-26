@@ -13,7 +13,7 @@ function setup() {
 }
 
 function preload(){
-  pic = loadImage('turkey.jpg');
+  pic = loadImage('pic.jpg');
   eye = loadImage ('eye.jpg')
   flower = loadImage ('flower.jpg')
   flower2 = loadImage('flower2.jpg')
